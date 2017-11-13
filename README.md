@@ -86,6 +86,10 @@ compile 'com.justkiddingbaby:rollinglayout:the latest version'
 #### v0.1(2017/7/24)
 1、release version 0.1.
 
+
+### Thank you for your support and we will bring more amazing libraries to your productive works. We are accepting bitcoin by the address as below. Please scan the QR code to start
+![wallet](http://s32.postimg.org/sdd1oio1t/qrwallet.jpg)
+
 ## License
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/License_icon-mit-88x31-2.svg/128px-License_icon-mit-88x31-2.svg.png)
 
